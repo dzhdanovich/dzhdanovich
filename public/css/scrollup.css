@@ -1,0 +1,17 @@
+#scrollup {
+    position: fixed; /* fixed position */
+    opacity: 0.5; /* transparency */
+    padding: 15px 10px 10px;
+    background: #aaa;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    left: 10px;
+    bottom: 10px;
+    display: none;
+    cursor: pointer;
+}
+
+#scrollup > img {
+    margin: 0 !important;
+}
