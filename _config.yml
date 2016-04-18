@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               Даша Жданович
+tagline:             Записки бесстрашного путешественника
+url:                 http://blog.zhdanovich.eu
 paginate:            1
 baseurl:             ""
 
@@ -17,14 +17,14 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Дарья Жданович
+  url:               http://blog.zhdanovich.eu
+  email:             darya_zhdanovich@outlook.com
 
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/dzhdanovich/dzhdanovich.github.io
 
 # Gems
 gems:
