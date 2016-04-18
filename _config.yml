@@ -5,8 +5,9 @@ permalink:           pretty
 title:               Даша Жданович
 tagline:             Записки бесстрашного путешественника
 url:                 http://blog.zhdanovich.eu
-paginate:            1
+paginate:            10
 baseurl:             ""
+highlighter:         pygments
 
 # Assets
 #
